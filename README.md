@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Diagrama Caso de Uso 
 
-You can use the [editor on GitHub](https://github.com/GuipiodeCarrato/ProjetoDS-2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://raw.githubusercontent.com/GuipiodeCarrato/ProjetoDS-2/Guilherme-Pio/imagens/Caso_De_Uso_Cadastrar_Cliente.PNG)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Caso de Solicita Cadastro – Visão Cliente
 
-### Markdown
+![](https://raw.githubusercontent.com/GuipiodeCarrato/ProjetoDS-2/Guilherme-Pio/imagens/capt.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Fluxo Principal 
 
-```markdown
-Syntax highlighted code block
+![](https://raw.githubusercontent.com/GuipiodeCarrato/ProjetoDS-2/Guilherme-Pio/imagens/correta.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+## Fluxo Alternativo 
 
-- Bulleted
-- List
+### Fluxo Alternativo –Passo 2 Dados inválidos ou não informados
+![](https://raw.githubusercontent.com/GuipiodeCarrato/ProjetoDS-2/Guilherme-Pio/imagens/Capturar_alternativo2.PNG)
 
-1. Numbered
-2. List
+### Fluxo Alternativo –Passo 5 O cliente não aceita os termos de uso.
+![](https://raw.githubusercontent.com/GuipiodeCarrato/ProjetoDS-2/Guilherme-Pio/imagens/Capturar3.PNG)
 
-**Bold** and _Italic_ and `Code` text
+## Requisitos Não Funcionais
 
-[Link](url) and ![Image](src)
-```
+### Usabilidade
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![](https://raw.githubusercontent.com/GuipiodeCarrato/ProjetoDS-2/Guilherme-Pio/imagens/requi-Usabilidade.PNG)
 
-### Jekyll Themes
+### Desempenho
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuipiodeCarrato/ProjetoDS-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://raw.githubusercontent.com/GuipiodeCarrato/ProjetoDS-2/Guilherme-Pio/imagens/Requi-Desempenho.PNG)
